@@ -19,4 +19,5 @@ jobs:
       - name: Display project information
         run: |
           echo "EchoTron Platform CI"
-          echo "Repository validated successfully."
+          echo "Repository; EchoTron Platform"
+          Is -la
