@@ -18,6 +18,4 @@ jobs:
 
       - name: Display project information
         run: |
-          echo "EchoTron Platform CI"
-          echo "Repository; EchoTron Platform"
-          Is -la
+          echo "EchoTron Platform CI" is running successfully!"
