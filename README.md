@@ -2,7 +2,7 @@
 
 ## Vision
 
-EchoTron Platform is the secure intelligence engine powering the EchomindX ecosystem.
+EchoTron Platform is the secure intelligence engine powering the EchoMindX ecosystem.
 
 It provides:
 
